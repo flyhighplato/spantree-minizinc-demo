@@ -1,3 +1,4 @@
+% From the MiniZinc documentation
                       %%%%%%%%%%%%%%%%%%%%%%%%
                       %                      %
                       % MiniZinc cheat sheet %

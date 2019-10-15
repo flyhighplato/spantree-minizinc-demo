@@ -1,3 +1,5 @@
+% From the MiniZinc documentation
+
 int: nc = 4;
 
 var 1..nc: wa;    var 1..nc: nt;
