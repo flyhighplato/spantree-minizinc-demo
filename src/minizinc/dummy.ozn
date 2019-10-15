@@ -1,0 +1,2 @@
+output ["x = ",show(x),";\n"];
+int: x;

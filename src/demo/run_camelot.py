@@ -5,7 +5,7 @@ import pymzn
 MINIZINC_BASE = "/src/minizinc"
 
 camelot_tracks = [
-    f"{random.randint(1, 12)}{('A' if random.randint(0, 1) == 1 else 'B')}" for _ in range(0, 20)
+    f"{random.randint(1, 12)}{('A' if random.randint(0, 1) == 1 else 'B')}" for _ in range(0, 50)
 ]
 
 print(f"Input: {camelot_tracks}")
